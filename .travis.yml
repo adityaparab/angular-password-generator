@@ -7,7 +7,7 @@ before_script:
   - npm install
 
 script:
-  - npm run test
+  - npm run test:headless
 
 before_deploy:
   - npm run build:prod
