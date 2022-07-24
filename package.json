@@ -4,7 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build --base-href /angular-password-generator",
+    "build": "ng build --base-href /angular-password-generator/",
     "watch": "ng build --watch --configuration development",
     "test": "ng test --watch=false",
     "test:headless": "ng test --watch=false --browsers=ChromeHeadless"
